@@ -1,9 +1,9 @@
-import Restaurant from "./components/Basics/Restaurant";
+import UseState from "./components/hooks/UseState";
 
 function App() {
   return (
     <div>
-      <Restaurant />
+      <UseState />
     </div>
   );
 }
